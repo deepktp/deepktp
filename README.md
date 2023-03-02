@@ -13,7 +13,7 @@
 * A passionate Self-taught T-shape developer
 * Travel at weekend
 * Currently learning 'How to build High Quality Codes' by Self
-* Personal website [link](https://www.booksmotion.com)
+* Personal website [link](https://booksmotion.com)
 * I’m currently open for a job opportunity,
 
 <br><br>
@@ -141,7 +141,7 @@
 
 <li>
 <a href="mailto:admin@booksmotion.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  bugsCreator-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px; " alt="bugsCreator" />
+<img src="https://img.shields.io/badge/gmail:  deepktp-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px; " alt="deepktp" />
 </a>
 </li>
 
@@ -149,7 +149,7 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="bugsCreator">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="deepktp">
 <br>
 <br>
 <br>
