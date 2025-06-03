@@ -9,7 +9,9 @@
 <div align="center">
 
 <a href="https://github.com/deepktp/">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=deepktp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=deepktp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <br />
+   <br />   <br />   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepktp&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="deepktp"/>
 
 </a>
