@@ -1,23 +1,39 @@
-<h1 align="center"><b>Hi , I'm Deepak Kumar Yadav </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Deepak Yadav
 
-<br>
+I am a full-stack developer at [TheVikalp](https://thevikalp.com). I work mostly with React Native, TypeScript, Node/Bun and PostgreSQL. Most of my work is in private repos. The public ones are below.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## Open source work
 
-<br>
+| Project | What it does |
+| --- | --- |
+| [react-native-vikalp-elements](https://github.com/deepktp/react-native-vikalp-elements) | Cross-platform React Native UI toolkit. [Docs](https://react-native-velements.thevikalp.com/). My maintained fork of `react-native-elements`. |
+| [react-native-vikalp-ratings](https://github.com/deepktp/react-native-vikalp-ratings) | Ratings component for React Native with tap and swipe support. Published on npm as [`@rn-vui/ratings`](https://www.npmjs.com/package/@rn-vui/ratings). |
+| [react-native-vikalp-carousel](https://github.com/deepktp/react-native-vikalp-carousel) | Carousel component for React Native. |
+| [react-native-vikalp-tour](https://github.com/deepktp/react-native-vikalp-tour) | Step by step walkthrough tooltips for React Native apps. My maintained fork of `react-native-copilot`. |
+| [zohopay](https://github.com/deepktp/zohopay) | TypeScript SDK for the Zoho Payments API (India and US). No runtime dependencies. |
+| [next-react-boilerplate](https://github.com/deepktp/next-react-boilerplate) | Next.js and React starter running on Bun. |
 
-<div align="center">
+## What I work with
 
-<a href="https://github.com/deepktp/">
-   <img src="https://github-readme-stats.vercel.app/api?username=deepktp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-   <br />
-   <br />   <br />   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepktp&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="deepktp"/>
+- **Mobile:** React Native, TypeScript
+- **Web:** React, Next.js, Astro
+- **Backend:** NestJS, Express, Bun, Node.js, Drizzle
+- **Data and servers:** PostgreSQL, MySQL, Docker, nginx, GitHub Actions, Linux VPS
 
-</a>
-</div>
+## At a glance
 
+I joined GitHub in December 2020. Numbers as of October 2026:
 
+- 2,874 commits so far, public and private together
+- 27 public repos and 5 followers
+- Commits per year:
 
-
-[Deepak Kumar Yadav](https://github.com/deepktp)
+```
+2020                     0
+2021                     0
+2022  █                 27
+2023  █                 77
+2024  ████             414
+2025  ███████          807
+2026  ██████████████ 1,549
+```
