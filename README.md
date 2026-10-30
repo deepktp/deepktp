@@ -25,15 +25,19 @@ I am a full-stack developer at [TheVikalp](https://thevikalp.com). I work mostly
 I joined GitHub in December 2020. Numbers as of October 2026:
 
 - 2,874 commits so far, public and private together
-- 27 public repos and 5 followers
-- Commits per year:
+- 53 pull requests and 17 issues in public repos
+- 27 public repos: 12 of my own projects and 15 forks
+- My own projects are about 79% TypeScript
+- `@rn-vui/ratings`: about 8,700 npm downloads a month
+
+Commits per year, with a few milestones:
 
 ```
 2020                     0
 2021                     0
-2022  █                 27
+2022  █                 27  first commits
 2023  █                 77
-2024  ████             414
-2025  ███████          807
-2026  ██████████████ 1,549
+2024  ████             414  first react-native-vikalp repo
+2025  ███████          807  @rn-vui/ratings published on npm
+2026  ██████████████ 1,549  busiest year so far
 ```
